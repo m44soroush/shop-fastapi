@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+__pycache__
+.mypy_cache
+.pytest_cache
+.vscode
+bin
+lib
+lib64
