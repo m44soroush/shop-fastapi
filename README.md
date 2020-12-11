@@ -1,0 +1,2 @@
+# shop-fastapi
+Practicing Fastapi
